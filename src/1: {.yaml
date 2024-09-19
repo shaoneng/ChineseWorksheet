@@ -1,0 +1,60 @@
+1: {
+      pinyinWords: [
+        { pinyin: 'yī gè', character: ' ' },
+        { pinyin: 'yī zhī', character: ' ' },
+        { pinyin: 'èr yuè', character: ' ' },
+        { pinyin: 'èr shí', character: ' ' },
+        { pinyin: 'sān rén', character: ' ' },
+      ],
+      strokeOrders: [
+        { character: '上', strokes: 3, secondStroke: 2 },
+        { character: '口', strokes: 3, secondStroke: 1 },
+        { character: '目', strokes: 5, secondStroke: 3 },
+        { character: '耳', strokes: 6, secondStroke: 4 },
+      ]
+    },
+    2: {
+      pinyinWords: [
+        { pinyin: 'xué xí', character: ' ' },
+        { pinyin: 'lǎo shī', character: ' ' },
+        { pinyin: 'tóng xué', character: ' ' },
+        { pinyin: 'kē bên', character: ' ' },
+        { pinyin: 'zuò yè', character: ' ' },
+      ],
+      strokeOrders: [
+        { character: '木', strokes: 4, secondStroke: 3 },
+        { character: '火', strokes: 4, secondStroke: 1 },
+        { character: '山', strokes: 3, secondStroke: 3 },
+        { character: '水', strokes: 4, secondStroke: 2 },
+      ]
+    },
+    3: {
+      pinyinWords: [
+        { pinyin: 'xiǎo péng you', character: ' ' },
+        { pinyin: 'huā yuán', character: ' ' },
+        { pinyin: 'yóu xì', character: ' ' },
+        { pinyin: 'kāi xīn', character: ' ' },
+        { pinyin: 'hǎo péng you', character: ' ' },
+      ],
+      strokeOrders: [
+        { character: '日', strokes: 4, secondStroke: 2 },
+        { character: '月', strokes: 4, secondStroke: 3 },
+        { character: '田', strokes: 5, secondStroke: 2 },
+        { character: '禾', strokes: 5, secondStroke: 4 },
+      ]
+    },
+    4: {
+      pinyinWords: [
+        { pinyin: 'jiā tíng', character: ' ' },
+        { pinyin: 'fù mǔ', character: ' ' },
+        { pinyin: 'xiōng dì', character: ' ' },
+        { pinyin: 'jiě mèi', character: ' ' },
+        { pinyin: 'ài', character: ' ' },
+      ],
+      strokeOrders: [
+        { character: '家', strokes: 10, secondStroke: 3 },
+        { character: '人', strokes: 2, secondStroke: 2 },
+        { character: '手', strokes: 4, secondStroke: 2 },
+        { character: '心', strokes: 4, secondStroke: 3 },
+      ]
+    },
