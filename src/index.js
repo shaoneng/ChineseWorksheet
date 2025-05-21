@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import Flashcard from './Flashcard'; // Added Flashcard import
 import reportWebVitals from './reportWebVitals';
-import ChineseWorksheet from './ChineseWorksheet';
+// Removed App and ChineseWorksheet imports as they are no longer used
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ChineseWorksheet />
+    <Flashcard /> {/* Changed to render Flashcard */}
   </React.StrictMode>
 );
 

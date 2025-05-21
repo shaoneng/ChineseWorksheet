@@ -5,6 +5,18 @@ body {
     sans-serif, 'Microsoft YaHei', 'SimHei', 'SimSun';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f2f5; /* A light grey-blue background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Ensure the body takes at least full viewport height */
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 code {
